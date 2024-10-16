@@ -1,0 +1,191 @@
+{
+  "main": {
+    "id": "20e9036ef56ea53b",
+    "type": "split",
+    "children": [
+      {
+        "id": "b034c0d092e12bc4",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "0184125bc38bfc9a",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "DiSTet2D.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "56ecbf8bf9f689ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "TC300/CV EXAMPLE.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a155502dc98ce6e6",
+    "type": "split",
+    "children": [
+      {
+        "id": "dafebf1540213f71",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "83af230db604be3c",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "f41b9c9af2a71fbd",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "d4f8ff00dc338d2b",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "d1e84545f1e5e52a",
+    "type": "split",
+    "children": [
+      {
+        "id": "67ba897bbb672b50",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "152b82e98ee327f6",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TC300/CV EXAMPLE.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e9bfad153a49cb37",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TC300/CV EXAMPLE.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "a6ab2fdd2e8d271f",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "6ff272d2d3e249b2",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TC300/CV EXAMPLE.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "56ecbf8bf9f689ad",
+  "lastOpenFiles": [
+    "TC300/Resume and CV.md",
+    "TC300/CV EXAMPLE.md",
+    "Untitled.md",
+    "TC300",
+    "DiSTet2D.md",
+    "Untitled.canvas",
+    "VE280/Notes.md",
+    "VE280 notes.md",
+    "VE280/VE280 notes.md",
+    "VE280/Untitled.md",
+    "VE280/Pasted image 20241010152315.png",
+    "VE280/Pasted image 20241010151502.png",
+    "VE280/Pasted image 20240927142737.png",
+    "VE280/Pasted image 20240926150821.png",
+    "VE280",
+    "Notes.md",
+    "Pasted image 20241010152315.png",
+    "Pasted image 20241010151502.png",
+    "Pasted image 20240927142737.png",
+    "Pasted image 20240926150821.png",
+    "215 Lab 1.md",
+    "Cellpose.md",
+    "defend.md",
+    "Pasted image 20241013034845.png",
+    "Pasted image 20241013033201.png",
+    "Untitled"
+  ]
+}
